@@ -1,3 +1,6 @@
 project:
-    output-dir: "../docs"
+  output-dir: "../docs"
+
+format:
+  html:
     output-file: "index.html"
